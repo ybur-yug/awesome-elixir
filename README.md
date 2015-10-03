@@ -456,6 +456,12 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 
 * [elixir_ale](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
 
+## HTML
+*Libraries and implementations working with HTML.*
+
+* [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
+* [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
+
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
 
@@ -978,8 +984,6 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [erlsom](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
 * [exmerl](https://github.com/pwoolcoc/exmerl) - Elixir wrapper for xmerl.
 * [exml](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
-* [exquery](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
-* [floki](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
 * [quinn](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [spill](https://github.com/jquadrin/spill) - Parse and reformat XML into spill structure.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
